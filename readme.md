@@ -1,5 +1,3 @@
-# MelonScript
-melonscript is a programming language for minecraft datapacks. 
+# What is melon?
 
-[syntax](./roadmap/syntax.md)
-
+melon - is a programming language that compiles to minecraft datapacks.
