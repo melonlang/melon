@@ -1,0 +1,8 @@
+// 10 * -2 + (2.4 - -2)
+
+var uwu: nbt
+var x: int = 10
+var y: int = 2
+
+uwu::foo = "hello world"
+
