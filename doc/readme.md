@@ -5,3 +5,5 @@ consider uwu, owo, twt just just place holders, example names, and most of the t
 ## table of contents
 
 - [getting started](./getting-started.md)
+- [functions](./syntax/functions.md)
+- [variables](./syntax/variables.md)
