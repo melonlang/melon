@@ -21,9 +21,9 @@ melon - is a programming language designed specifically for datapack development
 - allows to focus on logic rather than the implementation
 - make datapacks more high-level
 
-# how do i get started
+## how do i get started
 
-read the [wiki](https://github.com/melonlang/melon/wiki)
+you can find all of the resources and documentation on the [wiki](https://github.com/melonlang/melon/wiki)
 
 # FAQ
 
