@@ -1,4 +1,4 @@
-# what is melon
+![melon](./assets/melon.png)
 
 melon - is a programming language designed specifically for datapack development that compiles source code directly to datapacks. melon strives to improve datapack development experience, specifically:
 

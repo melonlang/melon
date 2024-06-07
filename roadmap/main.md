@@ -1,2 +1,0 @@
-- [ ] make basic interpreter
-- [ ] implement eval function
