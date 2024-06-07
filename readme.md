@@ -1,18 +1,19 @@
-![melon](./assets/melon.png)
+![melon logo](./assets/melon.png)
 
-melon - is a programming language designed specifically for datapack development that compiles source code directly to datapacks. melon strives to improve datapack development experience, specifically:
+- [what is melon](#what-is-melon)
+- [why use melon](#why-use-melon)
 
-- avoid hard coding and repetitive routine work (boilerplate)
+# what is melon
+
+melon - is a programming language designed specifically for datapack development that compiles source code directly to datapacks. melon strives to improve datapack development experience in many ways. it is written in go, and it will have go-like syntax. melon takes big inspiration from other programming languages designed for developing datapacks, like jmc, mcbuild, and bolt.
+
+# why use melon
+
+- avoid hard coding and repetitive routine work
 - improve readability
 - make more optimized code with less effort
 - make debugging process easier
 - improve productivity
 - make and use proper libraries
-- allow you to focus on logic rather than the implementation
+- you can focus on logic rather than the implementation
 - make datapacks more high-level
-
-melon is going be written in go, and it will also have a more go-like syntax. it takes big inspiration from similar programming languages, like jmc, bolt, mcbuild.
-
-## documentation
-
-documentation can be found here [melonlang/melon/doc](https://github.com/melonlang/melon/tree/main/doc)
