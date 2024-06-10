@@ -21,16 +21,16 @@ melon - is a programming language designed specifically for datapack development
 - allows to focus on logic rather than the implementation
 - make datapacks more high-level
 
-## how do i get started
+## get started
 
 you can find all of the resources and documentation on the [wiki](https://github.com/melonlang/melon/wiki)
 
 # FAQ
 
-## are melon-based datapacks optimized?
+## is melon going to ruin datapack performance by generating unoptimized code?
 
-the optimization of your datapack when coding in melon directly depends in your coding skills. your code will be as optimized as it would've been if you coded in vanilla mcfunction. however, melon provides tools to make optimization easier, so if anything, it could only improve optimization, never decrease.
+the performance of datapack written in melon directly depends on your coding skills. it will run just as efficiently as if you had coded it in pure mcfunction. but hey, melon also provides tools and abstractions to make optimization easier, so it can potentially improve performance, not hinder it.
 
 ## is melon safe?
 
-yes, melon is absolutely safe. why would i upload malware on github? you can read through all of the source code or test melon via virustotal
+melon's totally safe. it's open source, so you can check the code yourself or scan it with virustotal if you're worried. why would i risk uploading malware on github?
