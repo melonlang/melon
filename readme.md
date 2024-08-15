@@ -1,6 +1,6 @@
 # melon
 
-![melon logo](./assets/melon_logo.png)
+![melon logo](./assets/512px/melon_logo.png)
 
 - [what is melon](#what-is-melon)
 - [why use melon](#why-use-melon-over-vanilla-mcfunction)
